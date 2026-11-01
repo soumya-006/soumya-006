@@ -130,21 +130,29 @@ A full-stack mobile task management application with authentication, task CRUD o
 
 <!-- ================= ANALYTICS ================= -->
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soumya-006&show_icons=true&hide_border=true&bg_color=161B22&title_color=C9A7EB&icon_color=F0A6CA&text_color=CBD5E1&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-006&layout=compact&hide_border=true&bg_color=161B22&title_color=C9A7EB&text_color=CBD5E1" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=soumya-006&theme=transparent&hide_border=true&ring=C9A7EB&fire=F0A6CA&currStreakLabel=C9A7EB&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-006&bg_color=0D1117&color=C9A7EB&line=BD93F9&point=F0A6CA&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-006&bg_color=0D1117&color=C9A7EB&line=BD93F9&point=F0A6CA&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumya-006&theme=github_dark" width="100%"/>
+
+<br/><br/>
+
+<!-- Language Statistics -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya-006&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumya-006&theme=github_dark" width="49%"/>
+
+<br/><br/>
+
+<!-- General Statistics -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumya-006&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumya-006&theme=github_dark&utcOffset=5.5" width="49%"/>
 
 </div>
 
