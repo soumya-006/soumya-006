@@ -41,7 +41,7 @@ I enjoy working across AI, data science and full-stack development, turning idea
 </td>
 <td width="35%" valign="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<img src="female-developer.gif" width="100%" alt="Female developer coding"/>
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ A banking application featuring account management and core banking operations w
 
 **Focus:** Python · Flask · MySQL
 
-[↗ View Repository](YOUR_BANKING_REPO_URL)
+[↗ View Repository](https://github.com/soumya-006/banking-management-system)
 
 </td>
 <td width="50%" valign="top">
@@ -129,11 +129,19 @@ A full-stack mobile task management application with authentication, task CRUD o
 ---
 
 <!-- ================= ANALYTICS ================= -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-006&bg_color=0D1117&color=C9A7EB&line=BD93F9&point=F0A6CA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+
+<br/><br/>
+
+<!-- Contribution Summary Heatmap -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumya-006&theme=github_dark" width="100%"/>
+
+<br/><br/>
 
 <!-- Language Statistics -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya-006&theme=github_dark" width="49%"/>
@@ -141,7 +149,7 @@ A full-stack mobile task management application with authentication, task CRUD o
 
 <br/><br/>
 
-<!-- General Statistics -->
+<!-- GitHub Statistics -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumya-006&theme=github_dark" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumya-006&theme=github_dark&utcOffset=5.5" width="49%"/>
 
