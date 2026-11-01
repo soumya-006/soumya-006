@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[About](#about) · [Tech Stack](#tech-stack) · [Projects](#featured-projects) · [Analytics](#github-analytics) · [Connect](#connect)
+[About](#about-me) · [Tech Stack](#tech-stack) · [Projects](#featured-projects) · [Analytics](#github-analytics) · [Connect](#connect)
 
 </div>
 
@@ -129,7 +129,7 @@ A full-stack mobile task management application with authentication, task CRUD o
 ---
 
 <!-- ================= ANALYTICS ================= -->
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
