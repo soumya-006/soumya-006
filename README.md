@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=SOUMYA&fontSize=65&fontColor=E6D6FF&fontAlignY=45&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=14&descColor=F0A6CA&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=SOUMYA&fontSize=65&fontColor=E6D6FF&fontAlignY=38&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=14&descColor=F0A6CA&descAlignY=55&animation=fadeIn" width="100%"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A7EB&center=true&vCenter=true&width=550&lines=Computer+Science+%7C+Data+Science;Artificial+Intelligence+Enthusiast;Software+Developer+%7C+Problem+Solver;Always+learning.+Always+building." />
