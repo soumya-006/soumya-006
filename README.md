@@ -134,15 +134,6 @@ A full-stack mobile task management application with authentication, task CRUD o
 
 <div align="center">
 
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-006&bg_color=0D1117&color=C9A7EB&line=BD93F9&point=F0A6CA&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%"/>
-
-<br/><br/>
-
-<!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumya-006&theme=github_dark" width="100%"/>
-
-<br/><br/>
 
 <!-- Language Statistics -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya-006&theme=github_dark" width="49%"/>
