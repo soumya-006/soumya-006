@@ -1,79 +1,179 @@
-# Hi, I'm Soumya 👋
+<!-- ================= HERO ================= -->
 
-### Computer Science Engineer | Data Science | AI Enthusiast
+<div align="center">
 
-Building ideas into meaningful technology.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=SOUMYA&fontSize=65&fontColor=E6D6FF&fontAlignY=45&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=14&descColor=F0A6CA&animation=fadeIn" width="100%"/>
 
-I'm a Computer Science Engineering student passionate about software development, artificial intelligence, and data-driven solutions. I enjoy exploring new technologies, solving problems, and building applications that make a difference.
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A7EB&center=true&vCenter=true&width=550&lines=Computer+Science+%7C+Data+Science;Artificial+Intelligence+Enthusiast;Software+Developer+%7C+Problem+Solver;Always+learning.+Always+building." />
 
-### 👩‍💻 About Me
+<br/><br/>
 
-- 🎓 B.Tech in Computer Science Engineering (Data Science)
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI
-- 💻 Exploring Full-Stack Development and Software Engineering
-- 🧩 Enjoy solving problems and learning new technologies
-- 🌱 Always curious to learn, experiment and build.
+[About](#about) · [Tech Stack](#tech-stack) · [Projects](#featured-projects) · [Analytics](#github-analytics) · [Connect](#connect)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<!-- ================= ABOUT ================= -->
 
-**Programming Languages**
+## About Me
 
-Python · Java · C · JavaScript · SQL · R · MATLAB
+<table>
+<tr>
+<td width="65%" valign="top">
 
-**AI & Data Science**
+### Hello, I'm Soumya.
 
-Machine Learning · Deep Learning · NLP · Generative AI · Agentic AI
+Computer Science Engineering student specialising in Data Science, interested in building intelligent systems and meaningful software.
 
-**Web Development**
+I enjoy working across AI, data science and full-stack development, turning ideas into practical applications.
 
-React · Flask · HTML · CSS · Node.js
+**What interests me**
 
-**Databases & Tools**
+- Artificial Intelligence & Agentic AI
+- Machine Learning & NLP
+- Software Engineering
+- Full-Stack Development
+- Data-driven applications
 
-MySQL · MongoDB · Git · GitHub · VS Code · Power BI · Tableau
+</td>
+<td width="35%" valign="center">
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
-### 🚀 Featured Projects
-
-**1. Agentic AI Workforce Planning**
-
-An AI-powered platform for workforce planning, attrition prediction and HR intelligence.
-
-**2. Job Application Tracker**
-
-An AI-powered career management platform for tracking job applications and managing the job search process.
-
-**3. Banking Management System**
-
-A full-stack banking application developed using Python Flask and MySQL, featuring banking operations and database management.
-
-**4. To-Do App**
-
-A task management application built using React Native, TypeScript, Node.js and MongoDB.
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Statistics
+<!-- ================= TECH STACK ================= -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumya-006&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-006&layout=compact&hide_border=true&theme=default" height="165" />
-</p>
+## Tech Stack
+
+<div align="center">
+
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql&theme=dark" />
+
+<br/><br/>
+
+**AI · DATA SCIENCE · DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,flask,mongodb,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-### 🌐 Connect With Me
+<!-- ================= PROJECTS ================= -->
 
-- GitHub: [@soumya-006](https://github.com/soumya-006)
-- LinkedIn: [Connect with me](www.linkedin.com/in/soumya-singh-05789b34b)
+## Featured Projects
+
+*Selected projects I've worked on.*
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Agentic AI Workforce Planning
+
+An intelligent workforce planning platform focused on attrition prediction, workforce insights and strategic HR intelligence.
+
+**Focus:** Agentic AI · Predictive Analytics · HR Intelligence
+
+[↗ View Repository](https://github.com/soumya-006/Agentic-Workforce)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · Job Application Tracker
+
+An AI-powered career management platform to organise job applications, track progress and simplify the job search journey.
+
+**Focus:** Next.js · React · AI · Full-Stack Development
+
+[↗ View Repository](https://github.com/soumya-006/Job_Tracker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · Banking Management System
+
+A banking application featuring account management and core banking operations with a database-driven backend.
+
+**Focus:** Python · Flask · MySQL
+
+[↗ View Repository](YOUR_BANKING_REPO_URL)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · To-Do Application
+
+A full-stack mobile task management application with authentication, task CRUD operations and smart urgency-based sorting.
+
+**Focus:** React Native · TypeScript · Node.js · MongoDB
+
+[↗ View Repository](https://github.com/soumya-006/To_Do)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+<!-- ================= ANALYTICS ================= -->
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soumya-006&show_icons=true&hide_border=true&bg_color=161B22&title_color=C9A7EB&icon_color=F0A6CA&text_color=CBD5E1&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-006&layout=compact&hide_border=true&bg_color=161B22&title_color=C9A7EB&text_color=CBD5E1" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=soumya-006&theme=transparent&hide_border=true&ring=C9A7EB&fire=F0A6CA&currStreakLabel=C9A7EB&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-006&bg_color=0D1117&color=C9A7EB&line=BD93F9&point=F0A6CA&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/soumya-006">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/soumya-singh-05789b34b">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=9CCBFF"/>
+</a>
+
+<a href="https://www.instagram.com/soumya__2704/">
+<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E9A1C8"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:51406B,100:C9A7EB&height=100&section=footer" width="100%"/>
+
+**Thanks for visiting my profile.**
+
+<sub>Designed with curiosity, creativity and a little bit of code.</sub>
+
+</div>
